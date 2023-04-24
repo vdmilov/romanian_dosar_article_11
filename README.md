@@ -14,6 +14,6 @@ Here is the final [dashboard](https://public.tableau.com/app/profile/vdmilov/viz
 
 ## Technologies used
 
-- **Selenium**: Used for downloading the PDF files from the official website.
-- **Tabula-py**: Used for scanning the PDF files and extracting the relevant data from them.
-- **Pandas**: Used for transforming the extracted data into a structured format that can be used for analysis and visualization.
+- **[selenium](https://pypi.org/project/selenium/)**: Used for downloading the PDF files from the official website.
+- **[tabula-py](https://pypi.org/project/tabula-py/)**: Used for scanning the PDF files and extracting the relevant data from them.
+- **[pandas](https://pandas.pydata.org/)**: Used for transforming the extracted data into a structured format that can be used for analysis and visualization.
