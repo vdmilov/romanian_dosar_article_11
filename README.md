@@ -9,5 +9,11 @@ To solve this issue, this project automates the process of downloading, reading,
 
 The goal is to update the dashboard on a monthly basis to keep track of the progress of the citizenship application process.
  
-# Dashboard
+## Dashboard
 Here is the final [dashboard](https://public.tableau.com/app/profile/vdmilov/viz/RomanianCitizenship/Dashboard1).
+
+## Technologies used
+
+- **Selenium**: Used for downloading the PDF files from the official website.
+- **Tabula-py**: Used for scanning the PDF files and extracting the relevant data from them.
+- **Pandas**: Used for transforming the extracted data into a structured format that can be used for analysis and visualization.
